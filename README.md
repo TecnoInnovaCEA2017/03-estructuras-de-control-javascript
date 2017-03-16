@@ -94,3 +94,8 @@ do
 }
 while(false);
 ```
+
+
+Ahora completa los ejercicios en ejercicios.js.
+
+Puedes verificar que todo esté correcto visitando en tu navegador el archivo index.html
